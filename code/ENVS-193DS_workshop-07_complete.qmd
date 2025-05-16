@@ -1,6 +1,6 @@
 ---
 title: "Linear regression"
-author: "your name here"
+author: "Eli"
 date: "insert date here"
 format:
   html:
